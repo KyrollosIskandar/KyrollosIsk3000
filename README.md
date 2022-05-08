@@ -1,6 +1,6 @@
 Hello. I am Kyrollos Iskandar.
 
-I aspire to work in Medical Physics/Healthcare Data Science.
+I aspire to be a professional Physicist and Data Scientist.
 
 I like to make software and hardware.
 
