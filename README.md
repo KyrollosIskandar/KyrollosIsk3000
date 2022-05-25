@@ -1,6 +1,6 @@
 Hello. I am Kyrollos Iskandar.
 
-I aspire to be a professional Physicist and Data Scientist.
+I am an analytical problem solver and aspire to be a professional Applied Physicist and Data Scientist.
 
 I like to make software and hardware.
 
